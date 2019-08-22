@@ -11,7 +11,7 @@ namespace TestProject
     {
         protected void Page_Load(object sender, EventArgs e)
         {
-
+            Response.Write("Amazing c#, loving it....")
         }
     }
 }
